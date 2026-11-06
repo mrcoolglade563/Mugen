@@ -208,4 +208,4 @@ MUGEN is available as a full free version for non-commercial use, offering all f
 Ready to start creating your own combat games? Download MUGEN today and unleash your creativity!
 
 ---
-**Last updated:** 2026-11-05 22:36:10 UTC
+**Last updated:** 2026-11-06 02:59:30 UTC
